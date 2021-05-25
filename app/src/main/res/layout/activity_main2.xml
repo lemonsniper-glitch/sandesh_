@@ -52,7 +52,7 @@
             android:id="@+id/textView78"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Sale Date: 17 May 2021"
+            android:text="Computer generated Bill"
             android:textColor="@color/black"
             android:textStyle="bold|italic"
             android:textSize="15dp"
