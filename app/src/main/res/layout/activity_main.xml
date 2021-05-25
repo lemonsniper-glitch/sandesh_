@@ -24,6 +24,7 @@
             android:layout_height="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="15dp"
+            android:onClick="msg"
             app:srcCompat="@drawable/hm" />
 
         <ImageView
